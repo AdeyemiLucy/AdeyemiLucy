@@ -1,14 +1,8 @@
-### Hello there, Welcome to my page
+### Hello there, Welcome to my page 🧑‍💻
 
-
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on building my skills in data analysis
-- 🌱 I’m currently learning SQL,python and data visualization in tableau
-- 👯 I’m looking to collaborate on everything data and projects
-- 💬 Ask me about my learning journey
-- 📫 How to reach me: https://twitter.com/mamazfavourite
-- 😄 Pronouns:She/Her
-- ⚡ I love watching movies,dancing and solving puzzles
--->
+- I'm a data Analyst and I specialize in Excel and SQL, with growing experience in Power BI and business intelligence reporting.
+- Sharing real-world projects + self-taught journey
+- Focused on financial analysis, marketing data, and healthcare insights
+- Documenting my journey on [Medium](https://medium.com/@adeyemilucie)
+- I'm open to opportunities and collaborations in data analytics!
+ You can connect with me on [LinkedIn](www.linkedin.com/in/adeyemilucy) or [X](https://x.com/mamazfavourite)
